@@ -2,7 +2,7 @@
     "name": "com.unitydependencies",
     "displayName": "UnityDependencies",
     "version": "1.0.0",
-    "unity": "2018.3",
+    "unity": "2019.4",
     "description": "Touky's useful Unity Dependencies.",
     "keywords": [ "unity" ],
     "author":
@@ -11,10 +11,10 @@
     },
 	"dependencies":
     {
-        "com.havok.physics": "0.1.2-preview",
+        "com.havok.physics": "0.3.1-preview",
         "com.unity.cinemachine": "2.5.0",
-        "com.unity.entities": "0.5.1-preview.11",
-        "com.unity.timeline": "1.5.1",
+        "com.unity.entities": "0.11.2-preview.1",
+        "com.unity.timeline": "1.5.1-pre.1",
         "com.unity.render-pipelines.core": "7.1.8",
         "com.unity.shadergraph": "7.1.8",
         "com.unity.postprocessing": "2.2.2",
