@@ -1,7 +1,7 @@
 {
-    "name": "com.unitydependencies",
+    "name": "com.prateek.unitydependencies",
     "displayName": "UnityDependencies",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "unity": "2019.4",
     "description": "Touky's useful Unity Dependencies.",
     "keywords": [ "unity" ],
