@@ -1,7 +1,7 @@
 {
     "name": "com.prateek.unitydependencies",
     "displayName": "Prateek Unity Dependencies",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "unity": "2019.4",
     "description": "Touky's useful Unity Dependencies.",
     "keywords": [ "unity", "prateek" ],
@@ -19,7 +19,7 @@
         "com.unity.render-pipelines.core": "7.1.8",
         "com.unity.shadergraph": "7.1.8",
         "com.unity.postprocessing": "2.2.2",
-        "com.unity.probuilder": "4.1.2",
+        "com.unity.probuilder": "4.4.0",
         "com.unity.textmeshpro": "2.1.1"
 	},
     "repository":
